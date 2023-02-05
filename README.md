@@ -11,4 +11,4 @@ typora-root-url: image
 
 
 
-·![image-20230205121442885](/C:/Users/Hil/AppData/Roaming/Typora/typora-user-images/image-20230205121442885.png)
+·![image-20230205121442885](https://raw.githubusercontent.com/retaoo/imges/main/img/202302051215827.png)
