@@ -9,4 +9,4 @@ typora-root-url: image
 
 
 
-![image-20230205104949875](https://cdn.jsdelivr.net/gh/retaoo/imges/main/img/202302051050165.png)
+![image-20230205104949875](https://raw.githubusercontent.com/retaoo/imges/main/img/202302051040210.jpg)
